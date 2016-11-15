@@ -1,0 +1,1 @@
+print 'this is lab 0'
